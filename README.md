@@ -5,12 +5,8 @@
 - 🔎 В поисках вакансий на product analyst / data analyst
 - 💫 Сейчас активно работаю над разработкой идей для pet-проектов
 
-### Connect with me:
-
-[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://t.me/yuriy_ivlev)
-
-[![Пример](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)]([telegram](https://t.me/yuriy_ivlev))
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://t.me/yuriy_ivlev]
+### Мои контакты:
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://t.me/yuriy_ivlev)
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][linkedin]
 [<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
