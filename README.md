@@ -11,6 +11,7 @@
 
 <br />
 
+
 ### Языки и инструменты:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
