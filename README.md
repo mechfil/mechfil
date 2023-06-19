@@ -6,8 +6,8 @@
 - 💫 Сейчас активно работаю над разработкой идей для pet-проектов
 
 ### Мои контакты:
-[<img align="left" alt="opa_oz | LinkedIn" width="26px" src="https://img.icons8.com/?size=512&id=lUktdBVdL4Kb&format=png" />](https://t.me/yuriy_ivlev)
-[<img align="left" alt="opa_oz | LinkedIn" width="26px" src="https://img.icons8.com/?size=512&id=124379&format=png" />](ivlev1305@gmail.com)
+[<img align="left" alt="opa_oz | LinkedIn" width="45px" src="https://img.icons8.com/?size=512&id=lUktdBVdL4Kb&format=png" />](https://t.me/yuriy_ivlev)
+[<img align="left" alt="opa_oz | LinkedIn" width="45px" src="https://img.icons8.com/?size=512&id=124379&format=png" />](ivlev1305@gmail.com)
 
 <br />
 
