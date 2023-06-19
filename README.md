@@ -18,7 +18,7 @@
 <img align="left" alt="" width="40px" src="https://img.icons8.com/?size=512&id=OkBCty7GwbXX&format=png" />
 <img align="left" alt="" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 <img align="left" alt="" width="40px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
-<img align="left" alt="" width="40px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu" />
+<img align="left" alt="" width="40px" src="https://mobilitydb.com/images/plotly.png" />
 
 
 
