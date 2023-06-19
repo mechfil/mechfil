@@ -16,7 +16,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" />
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/?size=512&id=OkBCty7GwbXX&format=png" />
 <img align="left" alt="MySQL" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
