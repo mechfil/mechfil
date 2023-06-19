@@ -1,18 +1,18 @@
-### Hi there, I'm Vladimir Levin - aka opa_oz 👋
+### Привет! Я Юра Ивлев. 👋
 
-## I'm a Team Leader, Developer, and Mentor!
-- 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
-- 🥅 2023 Goals: Damn, I successfully moved to Japan! That's enough goals for this year!
-- ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
+## Я продуктовый джун-аналитик из Еревана
+- 👩‍💻 Прошел обучение в Яндекс Практикуме
+- 🔎 В поисках вакансий на product analyst
+- 💫 Сейчас активно работаю над разработкой идей для pet-проектов
 
-### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+### Мои контакты:
+[<img align="left" alt="opa_oz | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://t.me/yuriy_ivlev)" />][telegram]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](ivlev1305@gmail.com)" />][mail]
 
 <br />
 
-### Languages and Tools:
+### Языки и инструменты:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
