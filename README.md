@@ -20,7 +20,6 @@
 <img align="left" alt="" width="26px" src="https://img.icons8.com/?size=512&id=OkBCty7GwbXX&format=png" />
 <img align="left" alt="" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 <img align="left" alt="" width="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
-<img align="left" alt="plotly" width="26px" src="https://commons.wikimedia.org/wiki/File:Plotly-logo.png" />
 
 
 <br />
