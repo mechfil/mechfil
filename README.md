@@ -12,7 +12,7 @@
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="jupiter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="" width="40px" src="https://mobilitydb.com/images/plotly.png" />
+<img align="left" alt="" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="" width="40px" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" />
