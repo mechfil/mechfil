@@ -4,15 +4,10 @@
 - 👩‍💻 Прошел обучение в Яндекс Практикуме
 - 🔎 В поисках вакансий на product analyst / data analyst
 - 💫 Сейчас активно работаю над разработкой идей для pet-проектов
-
 ### Мои контакты:
 [<img align="left" alt="opa_oz | LinkedIn" width="40px" src="https://img.icons8.com/?size=512&id=lUktdBVdL4Kb&format=png" />](https://t.me/yuriy_ivlev)
 [<img align="left" alt="opa_oz | LinkedIn" width="40px" src="https://img.icons8.com/?size=512&id=124379&format=png" />](ivlev1305@gmail.com)
-
-
 <br />
-
-
 ### Языки и инструменты:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
