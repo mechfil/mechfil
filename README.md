@@ -28,14 +28,3 @@
 
 <br />
 <br />
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=opa-oz&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
-[yandex]: https://yandex.ru/
-[twitter]: https://twitter.com/ru_opa
-[linkedin]: https://www.linkedin.com/in/opa-oz/
-[instagram]: https://www.instagram.com/opa_oz/
