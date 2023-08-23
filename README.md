@@ -1,4 +1,4 @@
-### Hi! My name is Yuri Ivlev 👋
+### Hi! I'm Yuri Ivlev 👋
 
 ## I'm a Data Analyst from Yerevan
 - 👩‍💻 I completed training at Yandex.Practicum courses
