@@ -1,6 +1,6 @@
 ### Hi! My name is Yuri Ivlev 👋
 
-## I'm a Junior Data Analyst from Yerevan
+## I'm a Data Analyst from Yerevan
 - 👩‍💻 I completed training at Yandex.Practicum courses
 - 🔎 Looking for Product Analyst / Data Analyst job opportunities
 - 💫 Сurrently working on freelance and pet-projects
