@@ -1,16 +1,16 @@
-### Привет! Меня зовут Юрий Ивлев 👋
+### Hi! My name is Yuri Ivlev 👋
 
-## Я джун-аналитик из Еревана
-- 👩‍💻 Прошел обучение в Яндекс Практикуме
-- 🔎 В поисках предложений на product analyst / data analyst
-- 💫 Сейчас занимаюсь активной разработкой идей для pet-проектов
-### Мои контакты:
+## I'm a junior analyst from Yerevan
+- 👩‍💻 I completed training at Yandex.Practicum courses
+- 🔎 Currently looking for product analyst / data analyst job opportunities
+- 💫 Сurrently working on freelance and pet-projects
+### My contacts:
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=9R1sV3QvY18K&format=png" />](https://t.me/yuriy_ivlev)
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=124377&format=png" />](mailto:ivlev1305@gmail.com)
 
 <br />
 
-### Языки и инструменты:
+### Languages and tools:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
