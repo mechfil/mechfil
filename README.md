@@ -2,7 +2,7 @@
 
 ## I'm a Data Analyst from Yerevan
 - 👩‍💻 I completed training at Yandex.Practicum courses
-- 🔎 Looking for Product Analyst / Data Analyst job opportunities
+- 🔎 Looking for Data Analyst job opportunities
 - 💫 Сurrently working on projects at Yandex.Masterskaya
 ### My contacts:
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=9R1sV3QvY18K&format=png" />](https://t.me/yuriy_ivlev)
