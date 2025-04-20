@@ -23,7 +23,7 @@
 <img align="left" alt="" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 <img align="left" alt="" width="40px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" />
 <img align="left" alt="numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="datalens" width="40px" src="https://x-kit.ru/images/thumbnails/280/280/detailed/11/Yandex_DataLens_1sqq-mp.png" />
+<img align="left" alt="datalens" width="40px" src="https://static5.tgstat.ru/channels/_0/52/52b6c26fbd94eaf5dd1bd68b116b05b9.jpg" />
 
 
 
