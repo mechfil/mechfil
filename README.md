@@ -1,5 +1,4 @@
-### Hi! I'm Yuri Ivlev 👋
-
+### Hi there! I'm Yuri Ivlev 👋
 I'm a Product Analyst at the EdTech-company EgeLand
 
 ### My contacts:
