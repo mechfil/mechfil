@@ -1,6 +1,6 @@
 ### Hi! I'm Yuri Ivlev 👋
 
-## I'm a Product Analyst from Yerevan
+## I'm a Product Analyst at the EdTech company EL
 - 👩‍💻 
 - 🔎 
 - 💫 
