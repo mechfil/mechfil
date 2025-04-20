@@ -7,6 +7,7 @@ I'm a Product Analyst at the EdTech-company EgeLand
 
 <br />
 
+
 ### Languages and tools:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
