@@ -20,7 +20,6 @@
 <img align="left" alt="" width="40px" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" />
 <img align="left" alt="" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 <img align="left" alt="" width="40px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
-<img align="left" alt="" width="40px" src="https://mobilitydb.com/images/plotly.png" />
 <img align="left" alt="" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 <img align="left" alt="" width="40px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" />
 
