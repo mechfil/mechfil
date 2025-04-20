@@ -13,6 +13,7 @@
 ### Languages and tools:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="datalens" width="40px" src="https://static5.tgstat.ru/channels/_0/52/52b6c26fbd94eaf5dd1bd68b116b05b9.jpg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="" width="40px" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" />
@@ -23,7 +24,7 @@
 <img align="left" alt="" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 <img align="left" alt="" width="40px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" />
 <img align="left" alt="numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="datalens" width="40px" src="https://static5.tgstat.ru/channels/_0/52/52b6c26fbd94eaf5dd1bd68b116b05b9.jpg" />
+
 
 
 
