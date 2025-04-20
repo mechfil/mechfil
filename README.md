@@ -6,6 +6,7 @@ I'm a Product Analyst at the EdTech-company EgeLand
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=124377&format=png" />](mailto:ivlev1305@gmail.com)
 
 <br />
+<br />
 
 ### Languages and tools:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
