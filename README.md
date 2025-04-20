@@ -23,7 +23,6 @@
 <img align="left" alt="" width="40px" src="https://mobilitydb.com/images/plotly.png" />
 <img align="left" alt="" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 <img align="left" alt="" width="40px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" />
-<img align="left" alt="numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
 
 
