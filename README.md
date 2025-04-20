@@ -1,15 +1,13 @@
 ### Hi there! I'm Yuri Ivlev 👋
 I'm a Product Analyst at the EdTech-company EgeLand
 
+<br />
+
 ### My contacts:
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=9R1sV3QvY18K&format=png" />](https://t.me/yuriy_ivlev)
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=124377&format=png" />](mailto:ivlev1305@gmail.com)
 
-
 <br />
-<br />
-<br />
-
 
 ### Languages and tools:
 <img align="left" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -23,11 +21,6 @@ I'm a Product Analyst at the EdTech-company EgeLand
 <img align="left" alt="" width="40px" src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" />
 <img align="left" alt="" width="40px" src="https://img.icons8.com/?size=512&id=9Kvi1p1F0tUo&format=png" />
 <img align="left" alt="" width="40px" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" />
-
-
-
-
-
 
 <br />
 <br />
