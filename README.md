@@ -1,9 +1,7 @@
 ### Hi! I'm Yuri Ivlev 👋
 
 ## I'm a Product Analyst at the EdTech-company EgeLand
-- 👩‍💻 
-- 🔎 
-- 💫 
+
 ### My contacts:
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=9R1sV3QvY18K&format=png" />](https://t.me/yuriy_ivlev)
 [<img align="left" alt="opa_oz | LinkedIn" width="35px" src="https://img.icons8.com/?size=512&id=124377&format=png" />](mailto:ivlev1305@gmail.com)
